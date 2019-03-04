@@ -1,0 +1,4 @@
+2019-01-10 11:14:53  ranking页接收的parameter：{"userid":"19827"}
+2019-01-10 11:14:53  ranking 排行榜：[{"UserID":61456,"zcdpt":"0","FaceID":1,"NickName":"shzshz","GameID":61456,"ranking":1}]
+2019-01-10 11:14:55  ranking页接收的parameter：{"userid":"19827"}
+2019-01-10 11:14:55  ranking 排行榜：[{"UserID":61456,"zcdpt":"0","FaceID":1,"NickName":"shzshz","GameID":61456,"ranking":1}]

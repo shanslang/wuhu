@@ -1,0 +1,20 @@
+2019-03-01 14:13:23  join {"userid":"61454","areatype":"1","number":"2"}
+2019-03-01 14:13:25  join submission {"message":"开通月卡后才可参与！","status":true,"data":{"uid":"61454","bs":7}}
+2019-03-01 15:52:32  join {"userid":"61454"}
+2019-03-01 15:52:39  queryjoin submission {"message":"","status":true,"data":{"ret":0,"msg":"","robotct":0,"realPeople":4,"thePrevious":0,"prizeGold":"0","stakeArea":0,"stake":0,"scene":0,"odds":0,"cardType":0,"type1Gold":"0","type2Gold":"0","type3Gold":"0","type4Gold":"0","uid":"61454","prizeuser":[]}}
+2019-03-01 15:52:45  join {"userid":"61454"}
+2019-03-01 15:52:46  queryjoin submission {"message":"","status":true,"data":{"ret":0,"msg":"","robotct":0,"realPeople":4,"thePrevious":0,"prizeGold":"0","stakeArea":0,"stake":0,"scene":0,"odds":0,"cardType":0,"type1Gold":"0","type2Gold":"0","type3Gold":"0","type4Gold":"0","uid":"61454","prizeuser":[]}}
+2019-03-01 15:55:14  join {"userid":"61454"}
+2019-03-01 15:55:14  queryjoin submission {"message":"","status":true,"data":{"ret":0,"msg":"","robotct":0,"realPeople":2,"thePrevious":0,"prizeGold":"0","stakeArea":0,"stake":0,"scene":0,"odds":0,"cardType":0,"type1Gold":"0","type2Gold":"0","type3Gold":"0","type4Gold":"0","uid":"61454","prizeuser":[]}}
+2019-03-01 15:55:17  join {"userid":"61454"}
+2019-03-01 15:55:17  queryjoin submission {"message":"","status":true,"data":{"ret":0,"msg":"","robotct":0,"realPeople":2,"thePrevious":0,"prizeGold":"0","stakeArea":0,"stake":0,"scene":0,"odds":0,"cardType":0,"type1Gold":"0","type2Gold":"0","type3Gold":"0","type4Gold":"0","uid":"61454","prizeuser":[]}}
+2019-03-01 15:55:20  join {"userid":"61454"}
+2019-03-01 15:55:20  queryjoin submission {"message":"","status":true,"data":{"ret":0,"msg":"","robotct":0,"realPeople":2,"thePrevious":0,"prizeGold":"0","stakeArea":0,"stake":0,"scene":0,"odds":0,"cardType":0,"type1Gold":"0","type2Gold":"0","type3Gold":"0","type4Gold":"0","uid":"61454","prizeuser":[]}}
+2019-03-01 15:58:52  join {"userid":"61454"}
+2019-03-01 15:58:54  queryjoin submission {"message":"","status":true,"data":{"ret":0,"msg":"","robotct":0,"realPeople":3,"thePrevious":0,"prizeGold":"0","stakeArea":0,"stake":0,"scene":0,"type1Gold":"0","type2Gold":"0","type3Gold":"0","type4Gold":"0","uid":"61454","prizeuser":[]}}
+2019-03-01 15:59:09  join {"userid":"61454"}
+2019-03-01 15:59:09  queryjoin submission {"message":"","status":true,"data":{"ret":0,"msg":"","robotct":0,"realPeople":3,"thePrevious":0,"prizeGold":"0","stakeArea":0,"stake":0,"scene":0,"type1Gold":"0","type2Gold":"0","type3Gold":"0","type4Gold":"0","uid":"61454","prizeuser":[]}}
+2019-03-01 17:03:06  join {"userid":"61454"}
+2019-03-01 17:03:06  queryjoin submission {"message":"","status":true,"data":{"ret":0,"msg":"","robotct":0,"realPeople":2,"thePrevious":0,"prizeGold":"0","stakeArea":0,"stake":0,"scene":0,"type1Gold":"0","type2Gold":"0","type3Gold":"0","type4Gold":"0","uid":"61454","prizeuser":[]}}
+2019-03-01 17:03:09  join {"userid":"61454"}
+2019-03-01 17:03:09  queryjoin submission {"message":"","status":true,"data":{"ret":0,"msg":"","robotct":0,"realPeople":2,"thePrevious":0,"prizeGold":"0","stakeArea":0,"stake":0,"scene":0,"type1Gold":"0","type2Gold":"0","type3Gold":"0","type4Gold":"0","uid":"61454","prizeuser":[]}}

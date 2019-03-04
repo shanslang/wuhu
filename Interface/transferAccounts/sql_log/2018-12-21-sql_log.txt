@@ -1,0 +1,5 @@
+2018-12-21 11:34:46  接收的data : {"userid":"19827","psw":"C33367701511B4F6020EC61DED352059","cball":"0"}
+2018-12-21 11:34:46  19827--0
+2018-12-21 11:34:46  UserID:19827-cbAll:-0
+2018-12-21 11:34:46  params["19827","0","2018-12-21 11:34:46",""]
+2018-12-21 11:34:46  arr2 : [{"RecordID":52873,"SourceUserID":125036,"TargetUserID":125036,"SourceNickName":"test0001","TargetNickName":"test0001","SwapScore":"3000000","CollectDate":{"date":"2018-12-21 11:00:48.210000","timezone_type":3,"timezone":"Asia\/Shanghai"},"TradeType":2},{"RecordID":52872,"SourceUserID":125036,"TargetUserID":125036,"SourceNickName":"test0001","TargetNickName":"test0001","SwapScore":"57810079599","CollectDate":{"date":"2018-12-21 11:00:43.647000","timezone_type":3,"timezone":"Asia\/Shanghai"},"TradeType":1}]--

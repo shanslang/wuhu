@@ -1,0 +1,4 @@
+2018-11-19 16:41:48  接收的data : {"userid":"19827","psw":"C33367701511B4F6020EC61DED352059","cball":"0"}
+2018-11-19 16:41:48  UserID:19827-cbAll:-0
+2018-11-19 16:41:48  params["19827","0","2018-11-19 16:41:48",""]
+2018-11-19 16:41:49  arr2 : [{"RecordID":51226,"SourceUserID":125036,"TargetUserID":125037,"SourceNickName":"test0001","TargetNickName":"test0002","SwapScore":"1000000","CollectDate":{"date":"2018-11-19 16:41:40.120000","timezone_type":3,"timezone":"Asia\/Shanghai"},"TradeType":3}]--

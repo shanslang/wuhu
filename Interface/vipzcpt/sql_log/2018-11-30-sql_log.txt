@@ -1,0 +1,209 @@
+2018-11-30 09:22:02  viplog 问问 状态：1
+2018-11-30 09:26:20  viplog 缺少参数
+2018-11-30 09:26:20  viplog  状态：1
+2018-11-30 09:27:42  viplog fsfs 状态：1
+2018-11-30 09:27:50  viplog fsfs 状态：1
+2018-11-30 09:27:56  viplog 缺少参数
+2018-11-30 09:27:56  viplog  状态：1
+2018-11-30 09:40:11  viplog sslssl 状态：3
+2018-11-30 15:55:50  viplog sslssl 状态：1
+2018-11-30 15:56:35  viplog sslssl 状态：1
+2018-11-30 16:37:21  viplog shzshz 状态：0
+2018-11-30 16:39:43  viplog shzshz 状态：0
+2018-11-30 16:40:32  viplog shzshz 状态：0
+2018-11-30 16:43:42  viplog shzshz 状态：0
+2018-11-30 16:45:46  viplog shzshz 状态：0
+2018-11-30 16:46:28  viplog shzshz 状态：0
+2018-11-30 16:46:29  viplist shzshz 数据条数 0
+2018-11-30 16:46:29  数据库: 2
+2018-11-30 16:48:55  viplist  数据条数 0
+2018-11-30 16:48:55  数据库: 2
+2018-11-30 16:50:47  viplog shzshz 状态：0
+2018-11-30 16:50:48  viplist shzshz 数据条数 0
+2018-11-30 16:50:48  数据库: 2
+2018-11-30 16:50:48  []
+2018-11-30 16:52:35  viplist shzshz 数据条数 0
+2018-11-30 16:52:35  数据库: 2
+2018-11-30 16:52:35  []
+2018-11-30 16:54:23  viplist shzshz 数据条数 0
+2018-11-30 16:54:23  数据库: 2
+2018-11-30 16:54:23  []
+2018-11-30 16:54:43  viplist shzshz 数据条2数 0
+2018-11-30 16:54:45  viplist shzshz 数据条2数 0
+2018-11-30 16:54:46  viplist shzshz 数据条2数 0
+2018-11-30 16:59:14  viplist shzshz 数据条数 1
+2018-11-30 16:59:14  数据库: 0
+2018-11-30 16:59:14  
+2018-11-30 17:00:15  viplist shzshz 数据条数 1
+2018-11-30 17:00:15  数据库: 0
+2018-11-30 17:00:15  
+2018-11-30 17:00:35  viplist shzshz 数据条2数 0
+2018-11-30 17:05:11  viplist shzshz 数据条数 2
+2018-11-30 17:05:11  数据库: 127
+2018-11-30 17:05:11  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:05:37  viplog shzshz 状态：0
+2018-11-30 17:05:39  viplist  数据条2数 2
+2018-11-30 17:07:25  viplog shzshz 状态：0
+2018-11-30 17:07:26  viplist shzshz 数据条数 2
+2018-11-30 17:07:26  数据库: 127
+2018-11-30 17:07:26  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:07:45  viplog shzshz 状态：0
+2018-11-30 17:08:18  viplog shzshz 状态：0
+2018-11-30 17:08:20  viplist shzshz 数据条数 2
+2018-11-30 17:08:20  数据库: 127
+2018-11-30 17:08:20  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:08:55  viplog shzshz 状态：0
+2018-11-30 17:08:56  viplist shzshz 数据条数 2
+2018-11-30 17:08:56  数据库: 127
+2018-11-30 17:08:56  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:09:30  viplog shzshz 状态：0
+2018-11-30 17:09:31  viplist shzshz 数据条数 2
+2018-11-30 17:09:31  数据库: 127
+2018-11-30 17:09:31  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:11:52  viplog shzshz 状态：0
+2018-11-30 17:11:54  viplist shzshz 数据条数 2
+2018-11-30 17:11:54  数据库: 127
+2018-11-30 17:11:54  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:12:35  viplog shzshz 状态：0
+2018-11-30 17:12:37  viplist shzshz 数据条数 2
+2018-11-30 17:12:37  数据库: 127
+2018-11-30 17:12:37  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:14:03  viplog shzshz 状态：0
+2018-11-30 17:14:04  viplist shzshz 数据条数 2
+2018-11-30 17:14:04  数据库: 127
+2018-11-30 17:14:04  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:15:36  viplog shzshz 状态：0
+2018-11-30 17:15:36  viplist shzshz 数据条数 2
+2018-11-30 17:15:36  数据库: 127
+2018-11-30 17:15:36  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:16:07  viplog shzshz 状态：0
+2018-11-30 17:16:08  viplist shzshz 数据条数 2
+2018-11-30 17:16:08  数据库: 127
+2018-11-30 17:16:08  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:18:41  viplog shzshz 状态：0
+2018-11-30 17:18:41  viplist shzshz 数据条数 2
+2018-11-30 17:18:41  数据库: 127
+2018-11-30 17:18:41  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:21:40  viplog shzshz 状态：0
+2018-11-30 17:21:40  viplist shzshz 数据条数 2
+2018-11-30 17:21:40  数据库: 127
+2018-11-30 17:21:40  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:22:25  viplog shzshz 状态：0
+2018-11-30 17:22:25  viplist shzshz 数据条数 2
+2018-11-30 17:22:25  数据库: 127
+2018-11-30 17:22:25  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:23:38  viplog shzshz 状态：0
+2018-11-30 17:23:38  viplist shzshz 数据条数 2
+2018-11-30 17:23:38  数据库: 127
+2018-11-30 17:23:38  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:24:02  viplog shzshz 状态：0
+2018-11-30 17:24:21  viplog shzshz 状态：0
+2018-11-30 17:24:21  viplist shzshz 数据条数 2
+2018-11-30 17:24:21  数据库: 127
+2018-11-30 17:24:21  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:25:04  viplog shzshz 状态：0
+2018-11-30 17:25:04  viplist shzshz 数据条数 2
+2018-11-30 17:25:04  数据库: 127
+2018-11-30 17:25:04  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:25:39  viplog shzshz 状态：0
+2018-11-30 17:25:39  viplist shzshz 数据条数 2
+2018-11-30 17:25:39  数据库: 127
+2018-11-30 17:25:39  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:30:05  viplog shzshz 状态：0
+2018-11-30 17:30:05  viplist shzshz 数据条数 2
+2018-11-30 17:30:05  数据库: 127
+2018-11-30 17:30:05  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:31:56  viplog shzshz 状态：0
+2018-11-30 17:31:56  viplist shzshz 数据条数 2
+2018-11-30 17:31:56  数据库: 127
+2018-11-30 17:31:56  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:35:30  viplog shzshz 状态：0
+2018-11-30 17:35:30  viplist shzshz 数据条数 2
+2018-11-30 17:35:30  数据库: 127
+2018-11-30 17:35:30  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:45:44  viplog shzshz 状态：0
+2018-11-30 17:45:44  viplist shzshz 数据条数 2
+2018-11-30 17:45:44  数据库: 127
+2018-11-30 17:45:44  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:46:06  viplog shzshz 状态：0
+2018-11-30 17:46:27  viplog shzshz 状态：0
+2018-11-30 17:46:27  viplist shzshz 数据条数 2
+2018-11-30 17:46:27  数据库: 127
+2018-11-30 17:46:27  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:47:25  viplog shzshz 状态：0
+2018-11-30 17:47:25  viplist shzshz 数据条数 2
+2018-11-30 17:47:25  数据库: 127
+2018-11-30 17:47:25  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:47:45  viplog shzshz 状态：0
+2018-11-30 17:47:55  viplog shzshz 状态：0
+2018-11-30 17:48:09  viplog shzshz 状态：0
+2018-11-30 17:48:09  viplist shzshz 数据条数 2
+2018-11-30 17:48:09  数据库: 127
+2018-11-30 17:48:09  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:48:27  viplog shzshz 状态：0
+2018-11-30 17:48:35  viplog shzshz 状态：0
+2018-11-30 17:48:47  viplog shzshz 状态：0
+2018-11-30 17:48:47  viplist shzshz 数据条数 2
+2018-11-30 17:48:47  数据库: 127
+2018-11-30 17:48:47  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:51:45  viplog shzshz 状态：0
+2018-11-30 17:51:45  viplist shzshz 数据条数 2 cc 1
+2018-11-30 17:51:45  数据库: 127
+2018-11-30 17:51:45  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:53:42  viplog shzshz 状态：0
+2018-11-30 17:53:42  viplist shzshz 数据条数 2 cc 1
+2018-11-30 17:53:42  数据库: 127
+2018-11-30 17:53:42  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:54:07  viplog shzshz 状态：0
+2018-11-30 17:54:17  viplog shzshz 状态：0
+2018-11-30 17:54:17  viplist shzshz 数据条数 2 cc 1
+2018-11-30 17:54:17  数据库: 127
+2018-11-30 17:54:17  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:56:22  viplog shzshz 状态：0
+2018-11-30 17:56:22  viplist shzshz 数据条数 2 cc 1
+2018-11-30 17:56:22  数据库: 127
+2018-11-30 17:56:22  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:57:54  viplist shzshz 数据条数 2 cc 1
+2018-11-30 17:57:54  数据库: 127
+2018-11-30 17:57:54  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:58:06  viplog shzshz 状态：0
+2018-11-30 17:58:22  viplog shzshz 状态：0
+2018-11-30 17:58:56  viplog shzshz 状态：0
+2018-11-30 17:58:56  viplist shzshz 数据条数 2 cc 1
+2018-11-30 17:58:56  数据库: 127
+2018-11-30 17:58:56  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 17:59:42  viplist shzshz 数据条数 0 cc 2
+2018-11-30 17:59:42  数据库: 2
+2018-11-30 17:59:42  []
+2018-11-30 18:01:09  viplist shzshz 数据条数 0 cc 2
+2018-11-30 18:01:09  数据库: 2
+2018-11-30 18:01:09  []
+2018-11-30 18:01:30  viplog shzshz 状态：0
+2018-11-30 18:01:41  viplog shzshz 状态：0
+2018-11-30 18:01:41  viplist shzshz 数据条数 2 cc 1
+2018-11-30 18:01:41  数据库: 127
+2018-11-30 18:01:41  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 18:02:29  viplist shzshz 数据条数 0 cc 2
+2018-11-30 18:02:29  数据库: 2
+2018-11-30 18:02:29  []
+2018-11-30 18:03:06  viplog shzshz 状态：0
+2018-11-30 18:03:06  viplist shzshz 数据条数 2 cc 1
+2018-11-30 18:03:06  数据库: 127
+2018-11-30 18:03:06  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 19:56:05  viplog shzshz 状态：0
+2018-11-30 19:56:05  viplist shzshz 数据条数 2 cc 1
+2018-11-30 19:56:05  数据库: 127
+2018-11-30 19:56:05  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 19:57:42  viplist shzshz 数据条数 0 cc 2
+2018-11-30 19:57:42  数据库: 2
+2018-11-30 19:57:42  []
+2018-11-30 20:00:01  viplog shzshz 状态：0
+2018-11-30 20:00:01  viplist shzshz 数据条数 2 cc 1
+2018-11-30 20:00:01  数据库: 127
+2018-11-30 20:00:01  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 20:00:43  viplist shzshz 数据条数 2 cc 1
+2018-11-30 20:00:43  数据库: 127
+2018-11-30 20:00:43  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]
+2018-11-30 20:01:36  viplist shzshz 数据条数 2 cc 1
+2018-11-30 20:01:36  数据库: 127
+2018-11-30 20:01:36  [{"paim":1,"NickName":"sh","z_amout":"596,000","RowNumber":"1"},{"paim":1,"NickName":"te","z_amout":"196,000","RowNumber":"2"}]

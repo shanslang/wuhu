@@ -1,0 +1,4 @@
+2019-02-15 12:47:08  ranking页接收的parameter：{"userid":"20619"}
+2019-02-15 12:47:08  ranking 排行榜：[]
+2019-02-15 12:47:16  ranking页接收的parameter：{"userid":"20619"}
+2019-02-15 12:47:16  ranking 排行榜：[]

@@ -1,0 +1,2 @@
+2019-01-18 02:59:03  ranking页接收的parameter：{"userid":"64329"}
+2019-01-18 02:59:03  ranking 排行榜：[{"UserID":63847,"zcdpt":"0","FaceID":1,"NickName":"qq8803","GameID":172877,"ranking":1},{"UserID":63846,"zcdpt":"0","FaceID":1,"NickName":"qq8802","GameID":172876,"ranking":2}]

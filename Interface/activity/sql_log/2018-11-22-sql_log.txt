@@ -1,0 +1,81 @@
+2018-11-22 15:49:00  activvit.php 接受到的参数{"userid":"19827"}
+2018-11-22 15:49:00  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"19827"}
+2018-11-22 15:49:00  activvit.php 加密后 4E12C3B318B6AA6B40297DFCA2F77547
+2018-11-22 15:49:00  19827
+2018-11-22 15:49:00  activity.php 查询成功 []
+2018-11-22 15:58:20  activvit.php 接受到的参数{"userid":"19828"}
+2018-11-22 15:58:20  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"19828"}
+2018-11-22 15:58:20  activvit.php 加密后 496D44B4588FB44227E9C9E05AF816C8
+2018-11-22 15:58:20  19828
+2018-11-22 15:58:20  activity.php 查询成功 []
+2018-11-22 15:59:35  activvit.php 接受到的参数{"userid":"19828"}
+2018-11-22 15:59:35  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"19828"}
+2018-11-22 15:59:35  activvit.php 加密后 496D44B4588FB44227E9C9E05AF816C8
+2018-11-22 15:59:35  19828
+2018-11-22 15:59:35  activity.php 查询成功 []
+2018-11-22 16:29:09  activvit.php 接受到的参数{"userid":"19828"}
+2018-11-22 16:29:09  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"19828"}
+2018-11-22 16:29:09  activvit.php 加密后 496D44B4588FB44227E9C9E05AF816C8
+2018-11-22 16:29:09  19828
+2018-11-22 16:29:09  activity.php 查询成功 []
+2018-11-22 16:49:53  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-22 16:49:53  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-22 16:49:53  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-22 16:49:53  61454
+2018-11-22 16:49:53  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-22 16:54:04  activvit.php 接受到的参数{"userid":"19828"}
+2018-11-22 16:54:04  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"19828"}
+2018-11-22 16:54:04  activvit.php 加密后 496D44B4588FB44227E9C9E05AF816C8
+2018-11-22 16:54:04  19828
+2018-11-22 16:54:04  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-22 16:54:07  reward.php 接受到的参数{"userid":"19828","aid":"2"}
+2018-11-22 16:54:07  reward.php 加密后 B20A2E1D8C242ADF7CF43A156E316A3C
+2018-11-22 16:54:07  19828---2
+2018-11-22 16:54:07  reward.php 领取失败 19828 AID 2 info 无活动记录
+2018-11-22 16:54:11  activvit.php 接受到的参数{"userid":"19828"}
+2018-11-22 16:54:11  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"19828"}
+2018-11-22 16:54:11  activvit.php 加密后 496D44B4588FB44227E9C9E05AF816C8
+2018-11-22 16:54:11  19828
+2018-11-22 16:54:11  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-22 17:11:15  activvit.php 接受到的参数{"userid":"19828"}
+2018-11-22 17:11:15  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"19828"}
+2018-11-22 17:11:15  activvit.php 加密后 496D44B4588FB44227E9C9E05AF816C8
+2018-11-22 17:11:15  19828
+2018-11-22 17:11:15  activity.php 查询成功 
+2018-11-22 17:11:37  reward.php 接受到的参数{"userid":"19828","aid":"2"}
+2018-11-22 17:11:37  reward.php 加密后 B20A2E1D8C242ADF7CF43A156E316A3C
+2018-11-22 17:11:37  19828---2
+2018-11-22 17:11:37  reward.php 领取成功 19828 AID 2
+2018-11-22 17:12:23  activvit.php 接受到的参数{"userid":"19828"}
+2018-11-22 17:12:23  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"19828"}
+2018-11-22 17:12:23  activvit.php 加密后 496D44B4588FB44227E9C9E05AF816C8
+2018-11-22 17:12:23  19828
+2018-11-22 17:12:23  activity.php 查询成功 
+2018-11-22 17:12:24  reward.php 接受到的参数{"userid":"19828","aid":"2"}
+2018-11-22 17:12:24  reward.php 加密后 B20A2E1D8C242ADF7CF43A156E316A3C
+2018-11-22 17:12:24  19828---2
+2018-11-22 17:12:24  reward.php 领取失败 19828 AID 2 info 未达到领取标准
+2018-11-22 17:22:41  activvit.php 接受到的参数{"userid":"19828"}
+2018-11-22 17:22:41  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"19828"}
+2018-11-22 17:22:41  activvit.php 加密后 496D44B4588FB44227E9C9E05AF816C8
+2018-11-22 17:22:41  19828
+2018-11-22 17:22:41  activity.php 查询成功 
+2018-11-22 17:22:44  reward.php 接受到的参数{"userid":"19828","aid":"2"}
+2018-11-22 17:22:44  reward.php 加密后 B20A2E1D8C242ADF7CF43A156E316A3C
+2018-11-22 17:22:44  19828---2
+2018-11-22 17:22:44  reward.php 领取成功 19828 AID 2
+2018-11-22 17:23:16  activvit.php 接受到的参数{"userid":"64290"}
+2018-11-22 17:23:16  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"64290"}
+2018-11-22 17:23:16  activvit.php 加密后 642E92A25BDC04A4633AB78274DF57C1
+2018-11-22 17:23:16  64290
+2018-11-22 17:23:16  activity.php 查询成功 []
+2018-11-22 17:32:00  activvit.php 接受到的参数{"userid":"20619"}
+2018-11-22 17:32:00  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"20619"}
+2018-11-22 17:32:00  activvit.php 加密后 6B85F9D6BDE9A5E70026DE0AE5C06DCE
+2018-11-22 17:32:00  20619
+2018-11-22 17:32:00  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-22 18:00:56  activvit.php 接受到的参数{"userid":"63861"}
+2018-11-22 18:00:56  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"63861"}
+2018-11-22 18:00:56  activvit.php 加密后 C54255C9AF8ADE46D7E035A95F83E93C
+2018-11-22 18:00:56  63861
+2018-11-22 18:00:56  activity.php 查询成功 []

@@ -1,0 +1,205 @@
+2018-11-23 10:53:38  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 10:53:38  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 10:53:38  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 10:53:38  61454
+2018-11-23 10:53:38  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-23 11:29:51  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:29:51  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:29:51  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:29:51  61454
+2018-11-23 11:29:51  activity.php 查询成功 
+2018-11-23 11:30:09  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:30:09  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:30:09  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:30:09  61454
+2018-11-23 11:30:09  activity.php 查询成功 
+2018-11-23 11:30:35  activvit.php 接受到的参数{"userid":"61456"}
+2018-11-23 11:30:35  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61456"}
+2018-11-23 11:30:35  activvit.php 加密后 73CF7B7E8B388AC093045F0FE2FA1EB8
+2018-11-23 11:30:35  61456
+2018-11-23 11:30:35  activity.php 查询成功 []
+2018-11-23 11:30:41  activvit.php 接受到的参数{"userid":"61456"}
+2018-11-23 11:30:41  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61456"}
+2018-11-23 11:30:41  activvit.php 加密后 73CF7B7E8B388AC093045F0FE2FA1EB8
+2018-11-23 11:30:41  61456
+2018-11-23 11:30:41  activity.php 查询成功 []
+2018-11-23 11:31:19  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:31:19  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:31:19  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:31:19  61454
+2018-11-23 11:31:19  activity.php 查询成功 
+2018-11-23 11:31:21  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:31:21  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:31:21  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:31:21  61454
+2018-11-23 11:31:21  activity.php 查询成功 
+2018-11-23 11:31:55  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:31:55  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:31:55  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:31:55  61454
+2018-11-23 11:31:55  activity.php 查询成功 
+2018-11-23 11:32:22  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:32:22  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:32:22  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:32:22  61454
+2018-11-23 11:32:22  activity.php 查询成功 
+2018-11-23 11:32:50  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:32:50  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:32:50  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:32:50  61454
+2018-11-23 11:32:50  activity.php 查询成功 
+2018-11-23 11:32:53  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:32:53  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:32:53  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:32:53  61454
+2018-11-23 11:32:53  activity.php 查询成功 
+2018-11-23 11:33:06  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:33:06  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:33:06  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:33:06  61454
+2018-11-23 11:33:06  activity.php 查询成功 
+2018-11-23 11:33:25  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:33:25  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:33:25  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:33:26  61454
+2018-11-23 11:33:26  activity.php 查询成功 
+2018-11-23 11:34:00  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:34:00  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:34:00  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:34:00  61454
+2018-11-23 11:34:00  activity.php 查询成功 
+2018-11-23 11:34:04  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:34:04  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:34:04  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:34:04  61454
+2018-11-23 11:34:04  activity.php 查询成功 
+2018-11-23 11:34:31  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:34:31  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:34:31  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:34:31  61454
+2018-11-23 11:34:31  activity.php 查询成功 
+2018-11-23 11:35:57  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:35:57  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:35:57  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:35:57  61454
+2018-11-23 11:35:57  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-23 11:36:11  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:36:11  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:36:11  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:36:12  61454
+2018-11-23 11:36:12  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-23 11:36:25  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:36:25  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:36:25  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:36:25  61454
+2018-11-23 11:36:25  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-23 11:37:01  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:37:01  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:37:01  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:37:01  61454
+2018-11-23 11:37:01  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-23 11:39:05  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:39:05  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:39:05  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:39:05  61454
+2018-11-23 11:39:05  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-23 11:41:23  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:41:23  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:41:23  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:41:23  61454
+2018-11-23 11:41:23  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-23 11:41:34  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:41:34  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:41:34  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:41:34  61454
+2018-11-23 11:41:34  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-23 11:43:16  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:43:16  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:43:16  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:43:16  61454
+2018-11-23 11:43:16  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-23 11:43:33  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:43:33  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:43:33  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:43:33  61454
+2018-11-23 11:43:33  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-23 11:49:57  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:49:57  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:49:57  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:49:57  61454
+2018-11-23 11:49:57  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-23 11:50:23  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 11:50:23  ----- FFDFEE8B01CF3D7109DDB4909BCC8266{"userid":"61454"}
+2018-11-23 11:50:23  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 11:50:23  61454
+2018-11-23 11:50:23  activity.php 查询成功 []
+2018-11-23 15:11:21  activvit.php 接受到的参数{"userid":"36903"}
+2018-11-23 15:11:21  ----- {"userid":"36903"}
+2018-11-23 15:11:21  activvit.php 加密后 F6BE3783C4957D94F75956F46DFA5D2E
+2018-11-23 15:11:21  36903
+2018-11-23 15:11:21  activity.php 查询成功 []
+2018-11-23 15:11:57  activvit.php 接受到的参数{"userid":"36903"}
+2018-11-23 15:11:57  ----- {"userid":"36903"}
+2018-11-23 15:11:57  activvit.php 加密后 F6BE3783C4957D94F75956F46DFA5D2E
+2018-11-23 15:11:57  36903
+2018-11-23 15:11:57  activity.php 查询成功 []
+2018-11-23 15:12:51  activvit.php 接受到的参数{"userid":"36903"}
+2018-11-23 15:12:51  ----- {"userid":"36903"}
+2018-11-23 15:12:51  activvit.php 加密后 F6BE3783C4957D94F75956F46DFA5D2E
+2018-11-23 15:12:51  36903
+2018-11-23 15:12:51  activity.php 查询成功 []
+2018-11-23 15:15:34  activvit.php 接受到的参数{"userid":"36903"}
+2018-11-23 15:15:34  ----- {"userid":"36903"}
+2018-11-23 15:15:34  activvit.php 加密后 F6BE3783C4957D94F75956F46DFA5D2E
+2018-11-23 15:15:34  36903
+2018-11-23 15:15:34  activity.php 查询成功 []
+2018-11-23 15:17:13  activvit.php 接受到的参数{"userid":"36903"}
+2018-11-23 15:17:13  ----- {"userid":"36903"}
+2018-11-23 15:17:13  activvit.php 加密后 F6BE3783C4957D94F75956F46DFA5D2E
+2018-11-23 15:17:13  36903
+2018-11-23 15:17:13  activity.php 查询成功 []
+2018-11-23 15:20:38  activvit.php 接受到的参数{"userid":"36903"}
+2018-11-23 15:20:38  ----- {"userid":"36903"}
+2018-11-23 15:20:38  activvit.php 加密后 F6BE3783C4957D94F75956F46DFA5D2E
+2018-11-23 15:20:38  36903
+2018-11-23 15:20:38  activity.php 查询成功 []
+2018-11-23 15:32:57  activvit.php 接受到的参数{"userid":"36903"}
+2018-11-23 15:32:57  ----- {"userid":"36903"}
+2018-11-23 15:32:57  activvit.php 加密后 F6BE3783C4957D94F75956F46DFA5D2E
+2018-11-23 15:32:57  36903
+2018-11-23 15:32:57  activity.php 查询成功 []
+2018-11-23 15:35:52  activvit.php 接受到的参数{"userid":"36903"}
+2018-11-23 15:35:52  ----- {"userid":"36903"}
+2018-11-23 15:35:52  activvit.php 加密后 F6BE3783C4957D94F75956F46DFA5D2E
+2018-11-23 15:35:52  36903
+2018-11-23 15:35:52  activity.php 查询成功 []
+2018-11-23 15:40:21  activvit.php 接受到的参数{"userid":"36903"}
+2018-11-23 15:40:21  ----- {"userid":"36903"}
+2018-11-23 15:40:21  activvit.php 加密后 F6BE3783C4957D94F75956F46DFA5D2E
+2018-11-23 15:40:21  36903
+2018-11-23 15:40:21  activity.php 查询成功 []
+2018-11-23 15:41:54  activvit.php 接受到的参数{"userid":"36903"}
+2018-11-23 15:41:54  ----- {"userid":"36903"}
+2018-11-23 15:41:54  activvit.php 加密后 F6BE3783C4957D94F75956F46DFA5D2E
+2018-11-23 15:41:54  36903
+2018-11-23 15:41:54  activity.php 查询成功 []
+2018-11-23 19:14:05  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 19:14:05  ----- {"userid":"61454"}
+2018-11-23 19:14:05  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 19:14:05  61454
+2018-11-23 19:14:05  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-23 19:16:18  activvit.php 接受到的参数{"userid":"61454"}
+2018-11-23 19:16:18  ----- {"userid":"61454"}
+2018-11-23 19:16:18  activvit.php 加密后 102CDFB458F12D59F001795A8E8A8C9B
+2018-11-23 19:16:18  61454
+2018-11-23 19:16:18  activity.php 查询不到数据  --  ++ http://appzy.nzbuyu.com/activity/activity_2.png
+2018-11-23 19:42:42  activvit.php 接受到的参数{"userid":"64303"}
+2018-11-23 19:42:42  ----- {"userid":"64303"}
+2018-11-23 19:42:42  activvit.php 加密后 9A6BE806D9E7C786632630B36E23AECD
+2018-11-23 19:42:42  64303
+2018-11-23 19:42:42  activity.php 查询成功 []
+2018-11-23 19:44:13  activvit.php 接受到的参数{"userid":"64303"}
+2018-11-23 19:44:13  ----- {"userid":"64303"}
+2018-11-23 19:44:13  activvit.php 加密后 9A6BE806D9E7C786632630B36E23AECD
+2018-11-23 19:44:13  64303
+2018-11-23 19:44:13  activity.php 查询成功 []

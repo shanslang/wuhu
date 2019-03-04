@@ -1,0 +1,26 @@
+2019-02-28 09:09:36  join sign err=55C5C1B0DA4AC33463BE1598EA6900D9
+2019-02-28 09:09:54  join {"userid":"61454","areatype":"1","number":"2"}
+2019-02-28 09:09:54  join submission {"message":"开通月卡后才可参与！","status":true,"data":{"uid":"61454","bs":3}}
+2019-02-28 09:10:03  join sign err=97BB5ABDA8A3A49F52EAC2829D215DF7
+2019-02-28 09:10:04  join {"userid":"61454","areatype":"1","number":"2"}
+2019-02-28 09:10:04  join submission {"message":"开通月卡后才可参与！","status":true,"data":{"uid":"61454","bs":3}}
+2019-02-28 10:18:44  receive {"userid":"61454"}
+2019-02-28 10:18:44  receive submission {"message":"未到领取时间","status":true,"data":{"uid":"61454","bs":4}}
+2019-02-28 10:20:33  receive {"userid":"61454"}
+2019-02-28 10:20:34  receive submission {"message":"未到领取时间","status":true,"data":{"uid":"61454","bs":4}}
+2019-02-28 10:20:37  receive {"userid":"61454"}
+2019-02-28 10:20:37  receive submission {"message":"未到领取时间","status":true,"data":{"uid":"61454","bs":4}}
+2019-02-28 10:27:40  receive {"userid":"61454"}
+2019-02-28 10:27:41  receive submission {"message":"未到领取时间","status":true,"data":{"uid":"61454","bs":4}}
+2019-02-28 10:27:50  receive {"userid":"61454"}
+2019-02-28 10:27:50  receive submission {"message":"未到领取时间","status":true,"data":{"uid":"61454","bs":4}}
+2019-02-28 14:53:41  join {"userid":"61454","areatype":"1","number":"2"}
+2019-02-28 14:53:42  join submission {"message":"开通月卡后才可参与！","status":true,"data":{"uid":"61454","bs":3}}
+2019-02-28 17:52:48  join {"userid":"61454"}
+2019-02-28 17:52:48  queryjoin submission {"message":"","status":true,"data":{"ret":0,"msg":"","robotct":0,"realPeople":4,"thePrevious":0,"prizeGold":"0","stakeArea":0,"stake":0,"scene":0,"odds":0,"cardType":0,"type1Gold":"0","type2Gold":"0","type3Gold":"0","type4Gold":"0","uid":"61454","prizeuser":[]}}
+2019-02-28 17:54:33  join {"userid":"61454"}
+2019-02-28 17:54:33  queryjoin submission {"message":"","status":true,"data":{"ret":0,"msg":"","robotct":0,"realPeople":6,"thePrevious":0,"prizeGold":"0","stakeArea":0,"stake":0,"scene":0,"odds":0,"cardType":0,"type1Gold":"0","type2Gold":"0","type3Gold":"0","type4Gold":"0","uid":"61454","prizeuser":[]}}
+2019-02-28 19:07:48  join {"userid":"61454","areatype":"1","number":"2"}
+2019-02-28 19:07:48  join submission {"message":"开通月卡后才可参与！","status":true,"data":{"uid":"61454","bs":3}}
+2019-02-28 19:09:45  receive {"userid":"61454"}
+2019-02-28 19:09:45  receive submission {"message":"未到领取时间","status":true,"data":{"uid":"61454","bs":4}}

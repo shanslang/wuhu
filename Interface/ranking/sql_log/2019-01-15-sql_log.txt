@@ -1,0 +1,6 @@
+2019-01-15 17:18:02  ranking页接收的parameter：{"userid":"64323"}
+2019-01-15 17:18:02  ranking 排行榜：[{"UserID":20619,"zcdpt":"0","FaceID":7,"NickName":"aa112233","GameID":125883,"ranking":1}]
+2019-01-15 17:36:56  ranking页接收的parameter：{"userid":"64105"}
+2019-01-15 17:36:56  ranking 排行榜：[{"UserID":20619,"zcdpt":"0","FaceID":7,"NickName":"aa112233","GameID":125883,"ranking":1}]
+2019-01-15 17:45:51  ranking页接收的parameter：{"userid":"64323"}
+2019-01-15 17:45:51  ranking 排行榜：[{"UserID":20619,"zcdpt":"0","FaceID":7,"NickName":"aa112233","GameID":125883,"ranking":1}]
